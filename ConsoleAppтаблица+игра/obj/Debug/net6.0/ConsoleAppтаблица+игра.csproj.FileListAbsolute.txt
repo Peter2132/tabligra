@@ -1,0 +1,14 @@
+D:\ConsoleAppтаблица+игра\ConsoleAppтаблица+игра\bin\Debug\net6.0\ConsoleAppтаблица+игра.exe
+D:\ConsoleAppтаблица+игра\ConsoleAppтаблица+игра\bin\Debug\net6.0\ConsoleAppтаблица+игра.deps.json
+D:\ConsoleAppтаблица+игра\ConsoleAppтаблица+игра\bin\Debug\net6.0\ConsoleAppтаблица+игра.runtimeconfig.json
+D:\ConsoleAppтаблица+игра\ConsoleAppтаблица+игра\bin\Debug\net6.0\ConsoleAppтаблица+игра.dll
+D:\ConsoleAppтаблица+игра\ConsoleAppтаблица+игра\bin\Debug\net6.0\ConsoleAppтаблица+игра.pdb
+D:\ConsoleAppтаблица+игра\ConsoleAppтаблица+игра\obj\Debug\net6.0\ConsoleAppтаблица+игра.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleAppтаблица+игра\ConsoleAppтаблица+игра\obj\Debug\net6.0\ConsoleAppтаблица+игра.AssemblyInfoInputs.cache
+D:\ConsoleAppтаблица+игра\ConsoleAppтаблица+игра\obj\Debug\net6.0\ConsoleAppтаблица+игра.AssemblyInfo.cs
+D:\ConsoleAppтаблица+игра\ConsoleAppтаблица+игра\obj\Debug\net6.0\ConsoleAppтаблица+игра.csproj.CoreCompileInputs.cache
+D:\ConsoleAppтаблица+игра\ConsoleAppтаблица+игра\obj\Debug\net6.0\ConsoleAppтаблица+игра.dll
+D:\ConsoleAppтаблица+игра\ConsoleAppтаблица+игра\obj\Debug\net6.0\refint\ConsoleAppтаблица+игра.dll
+D:\ConsoleAppтаблица+игра\ConsoleAppтаблица+игра\obj\Debug\net6.0\ConsoleAppтаблица+игра.pdb
+D:\ConsoleAppтаблица+игра\ConsoleAppтаблица+игра\obj\Debug\net6.0\ConsoleAppтаблица+игра.genruntimeconfig.cache
+D:\ConsoleAppтаблица+игра\ConsoleAppтаблица+игра\obj\Debug\net6.0\ref\ConsoleAppтаблица+игра.dll
